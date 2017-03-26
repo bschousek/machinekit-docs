@@ -146,8 +146,8 @@ The Machineface user interface is especially designed for controlling 3D printer
 
 Therefore it features some additional controls for heatbed, extruder temperature and more.
 
-It implements following a set of link:https://github.com/strahlex/TCT3D/blob/revision2/UNIPRINT-3D.ini#L86[MCodes] as well as a few 
-link:https://github.com/strahlex/TCT3D/blob/revision2/UNIPRINT-3D.hal#L610[HAL signals] 
+It implements following a set of link:https://github.com/strahlex/TCT3D/blob/master/UNI-PRINT-3D.ini#L86[MCodes] as well as a few 
+link:https://github.com/strahlex/TCT3D/blob/master/uni_print_3d.py[HAL signals] 
 
 You may also want to take a look at the source code of Machineface: link:https://github.com/strahlex/Machineface/blob/master/Machineface/DisplayPanel.qml#L54[DisplayPanel.qml]
 
